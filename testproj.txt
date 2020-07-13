@@ -1,3 +1,5 @@
 Welcome to github ; Have a goot day !!
 
-git fetch test
+git 1st fetch test
+
+git 2nd fetch test
